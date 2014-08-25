@@ -1,0 +1,21 @@
+<ion-view title="<i class='icon {{data.converter.icon}}'></i> {{data.converter.name}}">
+  <ion-content has-header="true" padding="false">
+	
+	<div class="list">
+		<ion-item ng-repeat="factor in data.converter.factors" type="item-text-wrap">
+		 <label class="item-input">
+		    <span class="input-label">{{factor.label}}</span>
+		    <input type="number" ng-model="factor.input_value" ng-change="updateValues(factor)" >
+		  </label>
+		</ion-item>	 
+	</div>
+
+	<button 
+	ng-show="data.converter.name == 'Currency'" 
+	class="button button-block button-energized"
+	ng-click="updateCurrency()">
+	Update
+	</button>
+
+  </ion-content>
+</ion-view>
