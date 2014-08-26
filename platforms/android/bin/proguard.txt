@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.pisapapiros.metrics.HelloCordova { <init>(...); }
+-keep class com.ionicframework.starter.HelloCordova { <init>(...); }
 

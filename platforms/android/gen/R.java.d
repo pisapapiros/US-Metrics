@@ -1,11 +1,10 @@
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\gen\com\pisapapiros\metrics\R.java \
+C:\Users\Pablo\Sublime WS\metrics\platforms\android\gen\com\ionicframework\starter\R.java \
  : C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-hdpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-hdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-ldpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-mdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-ldpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-mdpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-port-hdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-port-ldpi\screen.png \

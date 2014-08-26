@@ -5,7 +5,6 @@ C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-hdpi\scree
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-ldpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-mdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-ldpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-mdpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-port-hdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\res\drawable-port-ldpi\screen.png \
@@ -22,7 +21,6 @@ C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-land-hdpi\s
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-land-ldpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-land-mdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-land-xhdpi\screen.png \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-ldpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-mdpi\icon.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-port-hdpi\screen.png \
 C:\Users\Pablo\Sublime WS\metrics\platforms\android\bin\res\drawable-port-ldpi\screen.png \
