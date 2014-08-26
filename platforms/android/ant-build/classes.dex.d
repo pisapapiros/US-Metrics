@@ -1,15 +1,22 @@
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes.dex : \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\BuildConfig.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\HelloCordova.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$attr.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$drawable.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$string.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$xml.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\nl\xservices\plugins\Toast$1.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\nl\xservices\plugins\Toast.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
-C:\Users\Pablo\Sublime WS\metrics\platforms\android\ant-build\dexedLibs\classes-b74c1264c9a75330976dfbba20f4ecb7.jar \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes.dex : \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\BuildConfig.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\HelloCordova.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$attr.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$drawable.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$string.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R$xml.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\ionicframework\starter\R.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\BuildConfig.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\HelloCordova.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\R$attr.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\R$drawable.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\R$string.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\R$xml.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\com\pisapapiros\metrics\R.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\nl\xservices\plugins\Toast$1.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\nl\xservices\plugins\Toast.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\Pablo\Sublime WS\US-Metrics\platforms\android\ant-build\dexedLibs\classes-d3d339c53bb8b40bb9d26ad4a7d44df6.jar \
