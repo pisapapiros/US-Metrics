@@ -9,8 +9,10 @@ angular.module('starter.controllers', [])
     	var settings = JSON.parse(window.localStorage.settings);
 
     angular.forEach(ConvertersFactory.all(), function(converter, key) {
-    	if (settings[key].active)
+    	if(typeof window.localStorage.settings === 'undefined') //if settings is not defined means first launch so add all
     		$scope.converters.push(converter);
+    	else if (settings[key].active)
+    		$scope.converters.push(converter);	   	
 	});
 
 })
@@ -67,10 +69,10 @@ angular.module('starter.controllers', [])
 				ConvertersFactory.getCurrencyRate('USD').then(
 			        function (success) {
 			          factor.conversion_value = success;
-			          window.plugins.toast.showShortTop('Updated');
+			          window.plugins.toast.showShortBottom('USD updated');
 			        },
 			        function (error) {
-			        	window.plugins.toast.showShortTop(error);
+			        	window.plugins.toast.showShortBottom(error);
 			        }
 			    );
 			}
@@ -78,13 +80,13 @@ angular.module('starter.controllers', [])
 				ConvertersFactory.getCurrencyRate('GBP').then(
 			        function (success) {
 			          factor.conversion_value = success;
-			          window.plugins.toast.showShortTop('Updated');
+			          window.plugins.toast.showShortBottom('GBP updated');
 			    	},
 			        function (error) {
-			        	window.plugins.toast.showShortTop(error);
+			        	window.plugins.toast.showShortBottom(error);
 			        }
 			    );
-			}
+			}			
 	    });		
 	};
 	
